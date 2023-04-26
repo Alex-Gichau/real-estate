@@ -26,6 +26,9 @@
     font-size:3.8rem;
     line-height:4rem;
 }
+.hero-title>h1>span {
+    color: orange;
+}
 
 .orange-circle{
     height:4rem;
@@ -33,10 +36,10 @@
     background: var(--orange-gradient);
     border-radius: 999px;
     position:absolute;
-    right: 45%;
+    right: -16%;
     z-index:-1;
     top:0;
-    /* filter: blur(30px); */
+    filter: blur(35px);
 }
 
 /* Search Bar */

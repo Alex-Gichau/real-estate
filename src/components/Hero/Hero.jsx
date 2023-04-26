@@ -11,9 +11,9 @@ const Hero = () => {
           <div className='hero-title'>
             <div className='orange-circle' />
             <h1>
-              Explore
-              <br /> New Boundaries
-              <br /> for You
+              We <span>buy and sell</span>
+              <br /> Properties
+              <br /> at Best <span>Price</span>
             </h1>
           </div>
           <div className='flexColStart hero-des'>
