@@ -13,7 +13,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: "Poppins", sans-serif;
+  font-family: 'Inter', sans-serif;
   scroll-behavior: smooth;
 }
 a {
@@ -80,6 +80,21 @@ a {
   color: orange;
   font-size: 1.5rem;
   font-weight: 600;
+}
+
+.button {
+  font-weight: 500;
+  padding: 0.6rem 1.4rem;
+  color: white;
+  background: var(--blue-gradient);
+  border: none;
+  border-radius: 4px;
+  transition:all 200ms ease-in;
+}
+
+.button:hover {
+  cursor: pointer;
+  transform: scale(1.1);
 }
 
 /* media queries */
