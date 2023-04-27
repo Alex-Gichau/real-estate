@@ -2,6 +2,7 @@
   --primary: #1f3e72;
   --secondary: rgba(255, 255, 255, 0.78);
   --black: #131110;
+  --blue-background:radial-gradient(circle, rgba(3,76,251,1) 0%, rgba(35,26,164,1) 30%, rgba(11,11,168,1) 58%, rgba(3,76,251,1) 100%);
   --blue-gradient: linear-gradient(97.05deg, #4066ff 3.76%, #2949c6 100%);
   --orange-gradient: linear-gradient(270deg, #ffb978 0%, #ff922d 100%);
   --blue: #4066ff;
@@ -70,6 +71,12 @@ a {
   color: #1f3e72;
   font-weight: bold;
   font-size: 2rem;
+}
+
+.primaryThinText {
+  color:var(--black);
+  font-weight: 200;
+  font-size: 1.5rem;
 }
 
 .secondaryText {
