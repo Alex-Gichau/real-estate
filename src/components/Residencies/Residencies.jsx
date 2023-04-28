@@ -26,7 +26,7 @@ const Residencies = () => {
               <div className='flexColStart r-card'>
                 <img src={card.image} alt='home' />
                 <span className='secondaryText r-price'>
-                  <span style={{ color: 'orange' }}>$</span>
+                  <span style={{ color: 'orange' }}>Kes. </span>
                   <span>{card.price}</span>
                 </span>
                 <span className='primaryText'>{card.name}</span>
@@ -46,8 +46,8 @@ const SliderButtons = () => {
   const swiper = useSwiper();
   return (
     <div className='flexCenter r-buttons'>
-      <button onClick={()=>swiper.slideNext()}>&lt;</button>
-      <button onClick={()=>swiper.slidePrev()}>&gt;</button>
+      <button onClick={()=>swiper.slidePrev()}>&lt;</button>
+      <button onClick={()=>swiper.slideNext()}>&gt;</button>
     </div>
   );
 };
