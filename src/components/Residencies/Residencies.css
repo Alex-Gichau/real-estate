@@ -53,28 +53,30 @@
     overflow: visible;
 }
 
-.r-buttons{
-    position: absolute;
+.r-buttons {
+    position: relative;
     gap: 1rem;
-    top:-4rem;
-    right: 0;
+    top: -25rem;
+    justify-content: right;
 
 }
 
 .r-buttons button{
     font-style: 1.2rem;
     padding: 0.8rem 1.8rem;
-    color:blue;
+    color:rgb(0, 0, 0);
     border:none;
     border-radius: 5px;
-    background-color: white;
-    cursor: pointer;
+    background-color: rgb(209, 222, 235);
+    cursor: pointer; 
 }
 
 .r-buttons>button:hover {
     background:linear-gradient(97.05deg, #4066ff 3.76%, #2949c6 100%);
     color: white;
     box-shadow: 0px 72px 49px -51px rgba(136,160,255,0.21);
-    transition: 350ms;
+    transition: 250ms;
 
 }
+
+
