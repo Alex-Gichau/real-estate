@@ -5,7 +5,7 @@ import CountUp from 'react-countup';
 
 const Hero = () => {
   return (
-    <section className='hero-wrapper'>
+    <section className='hero-wrapper movingBlueGradientBg'>
       <div className='paddings innerWidth flexCenter hero-container'>
         <div className='flexColStart hero-left'>
           <div className='hero-title'>

@@ -48,6 +48,13 @@ a {
   align-items: center;
 }
 
+.movingBlueGradientBg {
+    background: var(--blue-background);
+    position: relative;
+    animation: moveGradient 5s ease infinite;
+    background-size: 200% 100%;
+}
+
 .flexColCenter {
   display: flex;
   justify-content: center;

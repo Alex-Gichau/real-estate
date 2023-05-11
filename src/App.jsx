@@ -1,22 +1,21 @@
-import Header from './components/Header/Header';
-import Hero from './components/Hero/Hero';
-import './App.css'
-import Residencies from './components/Residencies/Residencies';
-import Values from './components//Values/Values'
-import Contacts from './components/Contacts/Contacts';
+import './App.css';
+import React from 'react';
+import Home from './pages/home';
+import Signup from './pages/signup';
+import Login from './pages/login';    
+import Errorpage from './pages/errorpage'
+import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 
 function App() {
   return (
-    <div className='App'>
-      <div>
-        <div className="white-gradient"/>
-        <Header />
-        <Hero />
-      </div>
-      <Residencies/>
-      <Values/>
-      <Contacts/>
-    </div>
+    <Router>
+      <Routes>
+          <Route path='/' element={<Home/>} />
+          <Route path='/login' element={<Login/>} />
+          <Route path='/signup' element={<Signup/>} />
+          <Route path='*' element={<Errorpage/>}/>
+      </Routes>
+    </Router>
   );
 }
 

@@ -3,7 +3,7 @@
     overflow-x: clip;
 }
 
-.App>:nth-child(1) {
+.App>:nth-child(1) .App>:nth-child(3) {
     background: var(--blue-background);
     position: relative;
     animation: moveGradient 5s ease infinite;
