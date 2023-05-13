@@ -13,7 +13,7 @@ const Hero = () => {
             <h1>
               We <span>buy and sell</span>
               <br /> Properties
-              <br /> at Best <span>Price</span>
+              <br /> at Best <span>price</span>
             </h1>
           </div>
           <div className='flexColStart hero-des'>

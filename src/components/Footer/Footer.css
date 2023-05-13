@@ -1,0 +1,28 @@
+.f-wrapper {
+    background:var( --blue-gradient);
+}
+
+.f-container {
+    justify-content: space-between;
+
+}
+
+.f-left {
+    gap:1rem;
+}
+
+.f-menu {
+    gap: 1.5rem;
+    margin-top: 1.5rem;
+}
+
+.f-menu > span {
+    font-weight: 100rem;
+}
+
+.btn-getStarted {
+    padding:20px 40px 20px 40px;
+    background:white;
+    color:blue;
+    font-weight: 400;
+}

@@ -1,7 +1,7 @@
 .hero-wrapper {
-    color:white;
     position: relative;
     padding-bottom: 2rem;
+    color:white;
     /* TODO: Change background colors */
 }
 
@@ -19,6 +19,7 @@
 .hero-title {
     position:relative;
     z-index: 1;
+    
 }
 
 .hero-title>h1{
@@ -28,6 +29,7 @@
 }
 .hero-title>h1>span {
     color: orange;
+    
 }
 
 .orange-circle{
@@ -44,10 +46,10 @@
 
 /* Search Bar */
 .search-bar {
-    background-color: white;
-    border-radius: 5px;
-    border:3px solid rgba(120,120,120,0.374);
-    padding:0.5rem 1rem;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    border:3px solid rgba(29, 4, 255, 0.374);
+    padding:0.5rem 1.5rem;
     justify-content: space-between;
     width: 100%;
 }
@@ -55,6 +57,8 @@
 .search-bar > input {
     border:none;
     outline: none;
+    padding: 0.5rem 0;
+    font-weight: 3rem;
 }
 
 /* Stats */

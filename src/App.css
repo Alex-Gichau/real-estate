@@ -3,14 +3,6 @@
     overflow-x: clip;
 }
 
-.App>:nth-child(1) .App>:nth-child(3) {
-    background: var(--blue-background);
-    position: relative;
-    animation: moveGradient 5s ease infinite;
-    background-size: 200% 100%;
-
-}
-
 @keyframes moveGradient {
     0% {
         background-position: 0% 50%;
@@ -34,4 +26,8 @@
     /*TODO: Give theme color*/
     filter: blur(100px);
     border-radius: 100px;
+}
+
+.form-wrapper > div {
+    gap:1rem;
 }
