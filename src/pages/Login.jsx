@@ -7,9 +7,7 @@ import '../App.css'
 const login = () => {
   return (
     <div className='App'>
-      <Header />
       <div className='form-wrapper flexColCenter paddings innerWidth'>
-        {/* <img src={logo} alt="" sizes={120}/> */}
         <h1 className='primaryText'>Login</h1><br/>
 
         <div className='flexColStart input'>
@@ -21,10 +19,11 @@ const login = () => {
           <label className='name'>Password</label>
           <input type='password' className='input' />
         </div>
+
+        <div className="flexColStart firebase-cont"></div>
         
         <button className="button btn">Login</button>
       </div>
-      <Footer />
     </div>
   );
 };
