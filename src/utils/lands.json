@@ -3,37 +3,37 @@
       "name": "Kabete Prime Plot",
       "price": "400,000",
       "detail": "Off Kamwangi, Joska Kamulu, Munyuu Road, Next to R.Tana. Off By-pass, Kamakis",
-      "image": "./r1.png"
+      "image": "../../public/images/l1.jpeg"
     },
     {
       "name": "Imara Investments Lands",
       "price": "295,000",
       "detail": "Off Kamwangi, Joska Kamulu, Munyuu Road, Next to R.Tana. Off By-pass, Kamakis",
-      "image": "./r2.png"
+      "image": "../../public/images/l2.jpg"
     },
     {
       "name": "Kirinyaga Plot",
       "price": "35,853",
       "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
-      "image": "./r3.png"
+      "image": "../../public/images/l3.jpg"
     },
     {
       "name": "Naivash Prime Project",
       "price": "407,043",
       "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
-      "image": "./r1.png"
+      "image": "../../public/images/l4.jpg"
     },
     {
       "name": "Nakuru Prime Plot",
       "price": "650,000",
       "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
-      "image": "./r2.png"
+      "image": "../../public/images/l5.jpg"
     },
     {
       "name": "Mulu Kamulu Plot",
       "price": "900,000",
       "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
-      "image": "./r3.png"
+      "image": "../../public/images/l6.jpeg"
     }
   ]
   
