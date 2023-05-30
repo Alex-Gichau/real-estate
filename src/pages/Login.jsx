@@ -8,7 +8,7 @@ const login = () => {
   return (
     <div className='App'>
       <div className='form-wrapper flexColCenter paddings align-center'>
-        <div className='flexColStart paddings form-center'>
+      <div className='flexColStart paddings form-center'>
           <h1 className='primaryText'>Welcome back!</h1>
           <br />
 

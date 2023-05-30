@@ -9,11 +9,11 @@ const Hero = () => {
       <div className='paddings innerWidth flexCenter hero-container'>
         <div className='flexColStart hero-left'>
           <div className='hero-title'>
-            <div className='orange-circle' />
+            {/* <div className='orange-circle' /> */}
             <h1>
               We <span>buy and sell</span>
-              <br /> Properties
-              <br /> at Best <span>price</span>
+              <br /> properties at
+              <br /> Best <span>price.</span>
             </h1>
           </div>
           <div className='flexColStart hero-des'>

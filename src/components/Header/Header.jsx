@@ -16,10 +16,10 @@ export const Header = () => {
               <a href=''>Contact Us</a>
               <a href=''>Get Started</a>
               <button className='button'>
-                <NavLink to='/login'>Login</NavLink>
+                <NavLink to='/test'>Login</NavLink>
               </button>
               <button className='button'>
-                <NavLink to='/signup'>Sign Up</NavLink>
+                <NavLink to='/test'>Sign Up</NavLink>
               </button>
         </div>
       </div>

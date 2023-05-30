@@ -11,7 +11,7 @@
 
 .r-card {
     gap: 0.6rem;
-    padding: 1rem;
+    padding: 0.5rem;
     border-radius: 10px;
     max-width: max-content;
     margin: auto;
@@ -21,6 +21,8 @@
 .r-card > img {
     width: 100%;
     max-width: 20rem;
+    aspect-ratio: 1.5;
+    border-radius:10px;
 }
 
 .r-card>:nth-child(2)
