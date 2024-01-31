@@ -1,38 +1,62 @@
 [
   {
-    "name": "Aliva Priva Jardin",
+    "name": "Aliva Priva Jard",
     "price": "47,043",
     "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
-    "image": "../../public/images/001.jpeg"
+    "image": "https://cdn.homes.com/homes/resize/640x427/quality/85/https%3A%2F%2Fphoto-central-new.adobecms.com%2F2022%2F03%2F11-1100-beachfront-villa-exterior-01.jpg"
   },
   {
     "name": "Asatti Garden City",
     "price": "66,353",
     "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
-    "image": "../../public/images/002.jpeg"
+    "image": "https://cdn.homes.com/homes/resize/640x427/quality/85/https%3A%2F%2Fphoto-central-new.adobecms.com%2F2022%2F03%2F11-1100-country-estate-exterior-01.jpg"
   },
   {
     "name": "Citralan Puri Serang",
     "price": "35,853",
     "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
-    "image": "../../public/images/005.jpeg"
+    "image": "https://cdn.homes.com/homes/resize/640x427/quality/85/https%3A%2F%2Fphoto-central-new.adobecms.com%2F2022%2F03%2F11-1100-city-apartment-exterior-01.jpg"
   },
   {
-    "name": "Aliva Priva Jardin",
-    "price": "47,043",
-    "detail": "Jacaranda Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
-    "image": "../../public/images/006.jpeg"
+    "name": "Bintaro Jaya Golf",
+    "price": "55,432",
+    "detail": "Golf Street, Pondok Aren, Tangerang Selatan, Banten",
+    "image": "https://cdn.homes.com/homes/resize/640x427/quality/85/https%3A%2F%2Fphoto-central-new.adobecms.com%2F2022%2F03%2F11-1100-golf-community-exterior-01.jpg"
   },
   {
-    "name": "Asatti Garden City",
-    "price": "66,353",
-    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
-    "image": "../../public/images/007.jpeg"
+    "name": "Pondok Indah Residences",
+    "price": "78,654",
+    "detail": "Jalan Sultan Iskandar Muda, Pondok Indah, Jakarta Selatan, DKI Jakarta",
+    "image": "https://cdn.homes.com/homes/resize/640x427/quality/85/https%3A%2F%2Fphoto-central-new.adobecms.com%2F2022%2F03%2F11-1100-luxury-condo-exterior-01.jpg"
   },
   {
-    "name": "Citralan Puri Serang",
-    "price": "35,853",
-    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
-    "image": "../../public/images/008.jpeg"
+    "name": "Kebayoran Baru",
+    "price": "29,000",
+    "detail": "Jalan H.R. Rasuna Said, Kebayoran Baru, Jakarta Selatan, DKI Jakarta",
+    "image": "https://cdn.homes.com/homes/resize/640x427/quality/85/https%3A%2F%2Fphoto-central-new.adobecms.com%2F2022%2F03%2F11-1100-urban-apartment-exterior-01.jpg"
+  },
+  {
+    "name": "Puri Kembangan",
+    "price": "42,567",
+    "detail": "Jalan Puri Kembangan, Kembangan, Jakarta Selatan, DKI Jakarta",
+    "image": "https://cdn.homes.com/homes/resize/640x427/quality/85/https%3A%2F%2Fphoto-central-new.adobecms.com%2F2022%2F03%2F11-1100-suburban-community-exterior-01.jpg"
+  },
+  {
+    "name": "Ciputra World",
+    "price": "89,000",
+    "detail": "Jalan Prof. Dr. Satrio, Kuningan, Jakarta Pusat, DKI Jakarta",
+    "image": "https://cdn.homes.com/homes/resize/640x427/quality/85/https%3A%2F%2Fphoto-central-new.adobecms.com%2F2022%2F03%2F11-1100-luxury-condo-exterior-02.jpg"
+  },
+  {
+    "name": "Kelapa Gading",
+    "price": "58,000",
+    "detail": "Jalan Boulevard Bukit Gading Raya, Kelapa Gading, Jakarta Utara, DKI Jakarta",
+    "image": "https://cdn.homes.com/homes/resize/640x427/quality/85/https%3A%2F%2Fphoto-central-new.adobecms.com%2F2022%2F03%2F11-1100-suburban-community-exterior-02.jpg"
+  },
+  {
+    "name": "Tanjung Duren",
+    "price": "37,000",
+    "detail": "Jalan Tanjung Duren Raya, Grogol, Jakarta Barat, DKI Jakarta",
+    "image": "https://cdn.homes.com/homes/resize/640x427/quality/85/https%3A%2F%2Fphoto-central-new.adobecms.com%2F2022%2F03%2F11-1100-urban-apartment-exterior-02.jpg"
   }
 ]
